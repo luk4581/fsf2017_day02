@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/luk4581/fsf2017_day02#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "path": "^0.12.7"
   }
 }
